@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f6b522903bb84e43a858b43af289876, type: 3}
+  m_Name: HeroSphere
+  m_EditorClassIdentifier: 
+  Material: {fileID: 2100000, guid: da6161c057ea7ad4abe37b60d15d7965, type: 2}
+  Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+  Name: Sphere
+  Moves:
+  - {fileID: 11400000, guid: 16017589eb473cf4f8c3df7e2104a97d, type: 2}
+  - {fileID: 11400000, guid: 0de246b00ecc9b949b5bfce6b2ec4447, type: 2}
